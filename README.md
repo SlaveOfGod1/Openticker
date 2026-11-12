@@ -91,8 +91,6 @@ buy me a coffee:
 
 **Bitcoin:** `bc1qj8nt5trrwjsv2qz5amm3r7prmeed0d62tnk9xp`
 
-*(Replace the line above with your wallet address.)*
-
 ## License
 
 Released under the MIT License. See [LICENSE](LICENSE) for the full text.
