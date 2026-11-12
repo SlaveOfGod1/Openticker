@@ -89,7 +89,7 @@ them). Both are requested from the Settings screen on first run.
 OpenTicker is free and always will be. If it made your day a little better, you can
 buy me a coffee:
 
-**Bitcoin:** `YOUR-BTC-WALLET-HERE`
+**Bitcoin:** `bc1qj8nt5trrwjsv2qz5amm3r7prmeed0d62tnk9xp`
 
 *(Replace the line above with your wallet address.)*
 
