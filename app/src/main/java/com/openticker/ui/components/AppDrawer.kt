@@ -203,7 +203,7 @@ fun AppDrawer(
 
                     Spacer(Modifier.weight(1f))
                     Text(
-                        "v1.0",
+                        "v1.0.1",
                         color = TextDim.copy(alpha = 0.55f),
                         fontSize = 10.sp,
                         letterSpacing = 1.4.sp,

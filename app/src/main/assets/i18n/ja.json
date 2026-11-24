@@ -1,7 +1,7 @@
 {
   "OpenTicker": "OpenTicker",
   "通知を、作り直す": "Notifications, but better",
-  "バージョン 1.0": "Version 1.0",
+  "バージョン 1.0.1": "Version 1.0.1",
   "メニュー": "Menu",
   "戻る": "Back",
   "クリア": "Clear",
@@ -68,7 +68,7 @@
   "「アプリ」タブで許可したアプリだけがティッカーに入ります。": "Only apps you allow in the Apps tab can reach the ticker.",
   "表示する": "Show",
   "選んだスタイルが上から滑り込み、やがて自分で去ります。": "The chosen style glides in at the top, then leaves on its own.",
-  "バージョン 1.0 · 端末内のみ": "Version 1.0 · Local only",
+  "バージョン 1.0.1 · 端末内のみ": "Version 1.0.1 · Local only",
   "プライバシーを最優先に": "PRIVACY FIRST",
   "通知は端末内で処理され、アップロードも販売も広告利用もされません。OpenTicker は Android の通知パネルを置き換えるものではなく、届いたものを穏やかに見る手段です。": "Your notifications are processed on this device and never uploaded, sold or used for ads. OpenTicker does not replace Android's notification shade - it is simply a calmer way to see what arrived.",
   "文字サイズ": "Font size",

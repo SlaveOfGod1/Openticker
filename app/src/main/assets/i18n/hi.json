@@ -1,7 +1,7 @@
 {
   "OpenTicker": "OpenTicker",
   "सूचनाएँ, बेहतर": "Notifications, but better",
-  "संस्करण 1.0": "Version 1.0",
+  "संस्करण 1.0.1": "Version 1.0.1",
   "मेन्यू": "Menu",
   "वापस": "Back",
   "साफ़ करें": "Clear",
@@ -68,7 +68,7 @@
   "सिर्फ़ वही ऐप्स टिकर तक पहुँचती हैं जिन्हें आप ऐप्स टैब में अनुमति देते हैं।": "Only apps you allow in the Apps tab can reach the ticker.",
   "दिखाता है": "Show",
   "चुनी हुई शैली ऊपर से खिसककर आती है और फिर अपने आप चली जाती है।": "The chosen style glides in at the top, then leaves on its own.",
-  "संस्करण 1.0 · केवल स्थानीय": "Version 1.0 · Local only",
+  "संस्करण 1.0.1 · केवल स्थानीय": "Version 1.0.1 · Local only",
   "निजता पहले": "PRIVACY FIRST",
   "आपकी सूचनाएँ इसी डिवाइस पर संसाधित होती हैं, कभी अपलोड, बेची या विज्ञापनों के लिए नहीं होतीं। OpenTicker एंड्रॉइड की नोटिफ़िकेशन शेड की जगह नहीं लेता, बस आई हुई चीज़ों को देखने का एक शांत तरीका है।": "Your notifications are processed on this device and never uploaded, sold or used for ads. OpenTicker does not replace Android's notification shade - it is simply a calmer way to see what arrived.",
   "फ़ॉन्ट आकार": "Font size",

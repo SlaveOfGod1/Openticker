@@ -94,7 +94,7 @@ fun AboutScreen(onMenu: () -> Unit) {
                 )
                 Spacer(Modifier.height(3.dp))
                 Text(
-                    t("Version 1.0"),
+                    t("Version 1.0.1"),
                     color = TextDim,
                     fontSize = 11.5.sp
                 )

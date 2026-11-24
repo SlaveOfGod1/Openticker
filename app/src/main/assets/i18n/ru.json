@@ -1,7 +1,7 @@
 {
   "OpenTicker": "OpenTicker",
   "Уведомления, переосмысленные": "Notifications, but better",
-  "Версия 1.0": "Version 1.0",
+  "Версия 1.0.1": "Version 1.0.1",
   "Меню": "Menu",
   "Назад": "Back",
   "Очистить": "Clear",
@@ -68,7 +68,7 @@
   "Только те приложения, которые вы разрешили во вкладке «Приложения», достигают тикера.": "Only apps you allow in the Apps tab can reach the ticker.",
   "Показывает": "Show",
   "Выбранный стиль плавно входит сверху и потом сам уходит.": "The chosen style glides in at the top, then leaves on its own.",
-  "Версия 1.0 · Только локально": "Version 1.0 · Local only",
+  "Версия 1.0.1 · Только локально": "Version 1.0.1 · Local only",
   "СНАЧАЛА ПРИВАТНОСТЬ": "PRIVACY FIRST",
   "Ваши уведомления обрабатываются на этом устройстве и никогда не выгружаются, не продаются и не используются для рекламы. OpenTicker не заменяет шторку уведомлений Android — это просто спокойный способ увидеть, что пришло.": "Your notifications are processed on this device and never uploaded, sold or used for ads. OpenTicker does not replace Android's notification shade - it is simply a calmer way to see what arrived.",
   "Размер шрифта": "Font size",

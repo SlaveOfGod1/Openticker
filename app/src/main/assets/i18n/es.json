@@ -1,7 +1,7 @@
 {
   "OpenTicker": "OpenTicker",
   "Notificaciones, reimaginadas": "Notifications, but better",
-  "Versión 1.0": "Version 1.0",
+  "Versión 1.0.1": "Version 1.0.1",
   "Menú": "Menu",
   "Atrás": "Back",
   "Borrar": "Clear",
@@ -68,7 +68,7 @@
   "Solo las aplicaciones que permites en la pestaña Apps pueden llegar al ticker.": "Only apps you allow in the Apps tab can reach the ticker.",
   "Muestra": "Show",
   "El estilo elegido se desliza arriba y luego se marcha solo.": "The chosen style glides in at the top, then leaves on its own.",
-  "Versión 1.0 · Solo local": "Version 1.0 · Local only",
+  "Versión 1.0.1 · Solo local": "Version 1.0.1 · Local only",
   "PRIVACIDAD PRIMERO": "PRIVACY FIRST",
   "Tus notificaciones se procesan en este dispositivo y nunca se suben, se venden ni se usan para publicidad. OpenTicker no sustituye la sombra de notificaciones de Android: es simplemente una forma más tranquila de ver lo que llegó.": "Your notifications are processed on this device and never uploaded, sold or used for ads. OpenTicker does not replace Android's notification shade - it is simply a calmer way to see what arrived.",
   "Tamaño de letra": "Font size",

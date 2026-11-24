@@ -1,7 +1,7 @@
 {
   "OpenTicker": "OpenTicker",
   "إشعارات أعيد ابتكارها": "Notifications, but better",
-  "الإصدار 1.0": "Version 1.0",
+  "الإصدار 1.0.1": "Version 1.0.1",
   "القائمة": "Menu",
   "رجوع": "Back",
   "مسح": "Clear",
@@ -68,7 +68,7 @@
   "التطبيقات التي تسمح بها في تبويب التطبيقات فقط هي التي تصل إلى الشريط المتحرك.": "Only apps you allow in the Apps tab can reach the ticker.",
   "يعرض": "Show",
   "ينزلق النمط المختار إلى الأعلى ثم يغادر من تلقاء نفسه.": "The chosen style glides in at the top, then leaves on its own.",
-  "الإصدار 1.0 · محلي فقط": "Version 1.0 · Local only",
+  "الإصدار 1.0.1 · محلي فقط": "Version 1.0.1 · Local only",
   "الخصوصية أولًا": "PRIVACY FIRST",
   "تُعالَج إشعاراتك على هذا الجهاز ولا تُرفع ولا تُباع ولا تُستخدم للإعلانات. OpenTicker لا يحل محل لوحة إشعارات أندرويد، بل مجرد طريقة أهدأ لرؤية ما وصل.": "Your notifications are processed on this device and never uploaded, sold or used for ads. OpenTicker does not replace Android's notification shade - it is simply a calmer way to see what arrived.",
   "حجم الخط": "Font size",

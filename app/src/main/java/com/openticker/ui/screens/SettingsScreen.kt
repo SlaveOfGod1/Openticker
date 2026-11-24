@@ -373,7 +373,7 @@ fun SettingsScreen(onTest: () -> Unit, onMenu: () -> Unit, onLanguageChanged: (S
                         fontWeight = FontWeight.Bold
                     )
                     Text(
-                        t("Version 1.0 · Local only"),
+                        t("Version 1.0.1 · Local only"),
                         color = TextDim,
                         fontSize = 11.sp
                     )

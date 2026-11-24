@@ -1,7 +1,7 @@
 {
   "OpenTicker": "OpenTicker",
   "通知，重新构想": "Notifications, but better",
-  "版本 1.0": "Version 1.0",
+  "版本 1.0.1": "Version 1.0.1",
   "菜单": "Menu",
   "返回": "Back",
   "清除": "Clear",
@@ -68,7 +68,7 @@
   "只有你在“应用”页允许的应用才能进入跑马灯。": "Only apps you allow in the Apps tab can reach the ticker.",
   "显示": "Show",
   "选中的样式从顶部滑入，然后自行离开。": "The chosen style glides in at the top, then leaves on its own.",
-  "版本 1.0 · 仅本机": "Version 1.0 · Local only",
+  "版本 1.0.1 · 仅本机": "Version 1.0.1 · Local only",
   "隐私优先": "PRIVACY FIRST",
   "你的通知只在本机处理，绝不上传、出售或用于广告。OpenTicker 并不会取代 Android 的通知栏，它只是用更平静的方式查看新消息。": "Your notifications are processed on this device and never uploaded, sold or used for ads. OpenTicker does not replace Android's notification shade - it is simply a calmer way to see what arrived.",
   "字号": "Font size",

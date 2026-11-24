@@ -1,7 +1,7 @@
 {
   "OpenTicker": "OpenTicker",
   "알림, 새롭게 생각하다": "Notifications, but better",
-  "버전 1.0": "Version 1.0",
+  "버전 1.0.1": "Version 1.0.1",
   "메뉴": "Menu",
   "뒤로": "Back",
   "지우기": "Clear",
@@ -68,7 +68,7 @@
   "앱 탭에서 허용한 앱만 티커에 나타납니다.": "Only apps you allow in the Apps tab can reach the ticker.",
   "보이기": "Show",
   "고른 스타일이 위로 미끄러져 들어온 뒤 스스로 사라집니다.": "The chosen style glides in at the top, then leaves on its own.",
-  "버전 1.0 · 기기 전용": "Version 1.0 · Local only",
+  "버전 1.0.1 · 기기 전용": "Version 1.0.1 · Local only",
   "프라이버시 우선": "PRIVACY FIRST",
   "알림은 기기에서만 처리되며 업로드되거나 판매되지 않고 광고에도 쓰이지 않습니다. OpenTicker는 안드로이드 알림 목록을 대체하지 않습니다. 도착한 것을 더 차분하게 보는 방법일 뿐입니다.": "Your notifications are processed on this device and never uploaded, sold or used for ads. OpenTicker does not replace Android's notification shade - it is simply a calmer way to see what arrived.",
   "글자 크기": "Font size",
