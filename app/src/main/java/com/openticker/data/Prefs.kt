@@ -202,7 +202,7 @@ object Prefs {
     fun saveAquatic(context: Context, value: SystemWindowOptions) =
         writeOptions(context, "aq_", value)
 
-    /** Options for one of the twenty illustrated card themes. */
+    /** Options for one of the twenty-two illustrated card themes. */
     fun themeOptions(
         context: Context,
         id: String,

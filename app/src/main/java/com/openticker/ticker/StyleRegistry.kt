@@ -12,6 +12,7 @@ import androidx.compose.material.icons.filled.Eco
 import androidx.compose.material.icons.filled.Image
 import androidx.compose.material.icons.filled.Map
 import androidx.compose.material.icons.filled.NightsStay
+import androidx.compose.material.icons.filled.Pets
 import androidx.compose.material.icons.filled.PhotoCamera
 import androidx.compose.material.icons.filled.PushPin
 import androidx.compose.material.icons.filled.Radio
@@ -33,6 +34,7 @@ import com.openticker.data.TickerData
 import com.openticker.data.TickerInteractions
 import com.openticker.ticker.cards.CuratedArcadeTicker
 import com.openticker.ticker.cards.CuratedBalloonTicker
+import com.openticker.ticker.cards.CuratedBambooTicker
 import com.openticker.ticker.cards.CuratedBentoTicker
 import com.openticker.ticker.cards.CuratedBlueprintTicker
 import com.openticker.ticker.cards.CuratedCrystalTicker
@@ -43,6 +45,7 @@ import com.openticker.ticker.cards.CuratedLavaTicker
 import com.openticker.ticker.cards.CuratedMapTicker
 import com.openticker.ticker.cards.CuratedMarqueeTicker
 import com.openticker.ticker.cards.CuratedOrigamiTicker
+import com.openticker.ticker.cards.CuratedPawsTicker
 import com.openticker.ticker.cards.CuratedPolaroidTicker
 import com.openticker.ticker.cards.CuratedStickyTicker
 import com.openticker.ticker.cards.CuratedStormTicker
@@ -320,7 +323,25 @@ object StyleRegistry {
             icon = Icons.Filled.TheaterComedy,
             selfIntro = true,
             internalExit = true
-        ) { data, actions, animate, exit -> CuratedMarqueeTicker(data, actions, animate, exit) }
+        ) { data, actions, animate, exit -> CuratedMarqueeTicker(data, actions, animate, exit) },
+        style(
+            id = "paws",
+            name = "Cat Paws",
+            description = "Crisp white card with a pink rim: a ball of yarn drops and unrolls, paw prints sprint across and wool-ball buttons pop in.",
+            accent = Color(0xFFF27FA5),
+            icon = Icons.Filled.Pets,
+            selfIntro = true,
+            internalExit = true
+        ) { data, actions, animate, exit -> CuratedPawsTicker(data, actions, animate, exit) },
+        style(
+            id = "bamboo",
+            name = "Bamboo",
+            description = "A grove of thin canes: the rods fall and plant themselves one by one, the green field fills in and three leaf buttons sprout.",
+            accent = Color(0xFFDFF3B2),
+            icon = Icons.Filled.Eco,
+            selfIntro = true,
+            internalExit = true
+        ) { data, actions, animate, exit -> CuratedBambooTicker(data, actions, animate, exit) }
     )
 
     fun byId(id: String): TickerStyle = styles.firstOrNull { it.id == id } ?: styles.first()

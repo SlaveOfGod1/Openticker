@@ -36,3 +36,7 @@ secrets.properties
 
 # Logs
 *.log
+
+# Theme lab references (HTML previews and their assets)
+*.html
+Openticker-themes/

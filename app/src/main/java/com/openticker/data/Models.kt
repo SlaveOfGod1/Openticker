@@ -105,7 +105,7 @@ object DemoData {
     }
 
     /**
-     * Preview for the twenty illustrated card themes — same preview kinds
+     * Preview for the twenty-two illustrated card themes — same preview kinds
      * (message / call / flight / music / generic / no actions) as the System
      * Window, so the dock buttons match what a real notification of that kind
      * would carry.

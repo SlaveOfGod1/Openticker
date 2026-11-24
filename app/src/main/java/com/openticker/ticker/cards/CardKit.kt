@@ -74,18 +74,18 @@ import androidx.compose.ui.platform.LocalContext
 import kotlinx.coroutines.launch
 
 
-/** IDs of the twenty illustrated card themes. */
+/** IDs of the twenty-two illustrated card themes. */
 object CardCatalog {
     val ids: Set<String> = setOf(
         "arcade", "flap", "vinyl", "polaroid", "sticky",
         "terminal", "blueprint", "origami", "glass", "lava",
         "vapor", "crystal", "map", "terrarium", "frost",
-        "storm", "zen", "bento", "balloon", "marquee"
+        "storm", "zen", "bento", "balloon", "marquee", "paws", "bamboo"
     )
 }
 
 /* ==================================================================== */
-/* Fonts used by the twenty illustrated card themes                             */
+/* Fonts used by the twenty-two illustrated card themes                         */
 /* ==================================================================== */
 
 @OptIn(ExperimentalTextApi::class)

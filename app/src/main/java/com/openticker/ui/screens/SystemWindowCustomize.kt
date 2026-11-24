@@ -259,7 +259,7 @@ fun SystemWindowCustomizer(
 }
 
 /**
- * Controls for one of the twenty illustrated card themes.
+ * Controls for one of the twenty-two illustrated card themes.
  *
  * Same settings as the other notification layouts — minus the colour picker:
  * these themes keep their designed palette.

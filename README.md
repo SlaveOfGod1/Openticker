@@ -29,9 +29,10 @@ choose exactly which apps are allowed to appear. Everything runs on your device.
 
 ## Features
 
-- **26 illustrated styles** — every one hand-built: Bento Box, Thunderstorm, Zen Garden,
-  Neon Arcade, Carnival Marquee, Glass Letter, Vinyl Record, Origami, Terrarium, Frost,
-  Polaroid, Terminal, Blueprint, Lava, Sticky Note, Flat Map, Radio Dial, Your Image and more.
+- **28 illustrated styles** — every one hand-built: Bento Box, Thunderstorm, Zen Garden,
+  Neon Arcade, Carnival Marquee, Cat Paws, Bamboo, Glass Letter, Vinyl Record, Origami,
+  Terrarium, Frost, Polaroid, Terminal, Blueprint, Lava, Sticky Note, Flat Map, Radio Dial,
+  Your Image and more.
 - **Live previews** — the styles list renders the real card, animated, so you can see the
   scene before you choose it.
 - **Reply without opening the app** — answer a message straight from the floating ticker.
